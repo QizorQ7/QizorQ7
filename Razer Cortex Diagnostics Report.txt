@@ -1,0 +1,537 @@
+﻿Razer Cortex Diagnostics Report v2.0  Version： 9.1.7.901
+Date： 2018/10/11 10:26:10
+
+----------------------------------
+01 - Operating System
+----------------------------------
+
+0101 - Operating System : Windows 10 Pro 64-bit (10.0, Build 17763) (17763.rs5_release.180914-1434)
+0102 - Language : English (Regional Setting: English)
+0103 - BIOS : BIOS Date: 07/11/14 16:23:51 Ver: 22.02
+0104 - Processor : Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
+0105 - Memory : 16384MB RAM
+0106 - Available OS Memory : 16328MB RAM
+0107 - Page File : 6641MB used, 12629MB available
+0108 - Windows Dir : C:\WINDOWS
+0109 - DirectX Version : DirectX 12
+0110 - DX Setup Parameters : Not found
+0111 - User DPI Setting : Using System DPI
+0112 - System DPI Setting : 96 DPI (100 percent)
+0113 - DWM DPI Scaling : Disabled
+0114 - DxDiag Version : 10.00.17763.0001
+
+----------------------------------
+02 - Processor
+----------------------------------
+
+0201 - Caption : Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz x8 ~3601MHz
+0202 - Current Clock Speed : 800MHz
+
+----------------------------------
+03 - Video Adapter
+----------------------------------
+
+0301 - Card Name : NVIDIA GeForce GTX 1060 6GB
+0302 - Manufacturer : NVIDIA
+0303 - Chiptype : GeForce GTX 1060 6GB
+0304 - DAC Type : Integrated RAMDAC
+0305 - Device Key : Enum\PCI\VEN_10DE&DEV_1C03&SUBSYS_32811462&REV_A1
+0306 - Display Memory : 4095 MB
+0307 - AdapterRAM : 3.1023 GB
+0308 - Current Mode : 1920 x 1080 (32 bit) (60Hz)
+0309 - Monitor Name : ZOWIE RL LCD
+0310 - Driver Name : C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_54bd1f10ac116cd5\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_54bd1f10ac116cd5\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_54bd1f10ac116cd5\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_54bd1f10ac116cd5\nvldumdx.dll
+0311 - Driver Version : 25.21.0014.1616
+0312 - Driver Language : English
+0313 - DDI Version : 12
+0314 - Driver Model : WDDM 2.5
+0315 - Driver Beta : False
+0316 - Driver Debug : False
+0317 - Driver Date : 10/2/2018 3:00:00 AM
+0318 - Driver Size : 957584
+0319 - VDD : unknown
+0320 - Mini VDD : unknown
+0321 - Mini VDD Date : Unknown
+0322 - Mini VDD Size : 0
+0323 - Device Identifier : {D7B71E3E-5F43-11CF-8271-8F121BC2D435}
+0324 - Vendor ID : 0x10DE
+0325 - Device ID : 0x1C03
+ : 0x32811462
+0327 - Revision ID : 0x00A1
+0328 - Driver Strong Name : oem20.inf:0f066de38c1ebff8:Section108:25.21.14.1616:pci\ven_10de&dev_1c03
+0329 - Rank Of Driver : 00D12001
+0331 - Deinterlace Caps : {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+{335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+0332 - D3D9 Overlay : Supported
+0333 - DXVA-HD : Supported
+0334 - DDraw Status : Enabled
+0335 - D3D Status : Enabled
+0336 - AGP Status : Enabled
+0337 - Notes : No problems found.
+
+
+0338 - OpenGL : 10.0.17763.1 (WinBuild.160101.0800)
+
+----------------------------------
+04 - Memory
+----------------------------------
+0401 - Total Memory : 15.967 GB
+0402 - Free Memory : 11.743 GB
+0403 - Total Pagefile : 18.839 GB
+0404 - Free Pagefile : 12.323 GB
+
+0405 - Bank Label : BANK 1
+0406 - Speed : 1600 MHz
+0407 - Total Width : 64 Bits
+0408 - Capacity : 8.00 GB
+
+0405 - Bank Label : BANK 3
+0406 - Speed : 1600 MHz
+0407 - Total Width : 64 Bits
+0408 - Capacity : 8.00 GB
+
+----------------------------------
+05 - Network
+----------------------------------
+
+0501 - Description : Intel(R) Ethernet Connection (2) I218-V
+0502 - Driver Date : 4-5-2016
+0503 - Driver Version : 12.15.22.6
+
+----------------------------------
+06 - Motherboard
+----------------------------------
+
+0601 - Model : Z97-C
+0602 - Manufacturer : ASUSTeK COMPUTER INC.
+
+----------------------------------
+07 - Sound Device
+----------------------------------
+
+0701 - Description : Headset Earphone (Razer Kraken 7.1 V2)
+0702 - Default Sound Playback : True
+0703 - Default Voice Playback : True
+0704 - Hardware ID : USB\VID_1532&PID_0510&REV_6702&MI_00
+0705 - Manufacturer ID : 65535
+0706 - Product ID : 65535
+0707 - Type : WDM
+0708 - Driver Name : USBAUDIO.sys
+0709 - Driver Version : 10.00.17763.0001
+0710 - Driver attributes : Final Retail
+0711 - Date and Size : 9/8/2016 12:00:00 AM
+0713 - Driver Provider : Razer Inc.
+0714 - Min/Max Sample Rate : N/A, N/A
+0715 - Static/Strm HW Mix Bufs : N/A, N/A
+0716 - Static/Strm HW 3D Bufs : N/A, N/A
+0717 - HW Memory : N/A
+0718 - Voice Management : False
+0719 - EAX(tm) 2.0 Listen/Src : False, False
+0720 - I3DL2(tm) Listen/Src : False, False
+0721 - Notes : No problems found.
+
+0701 - Description : Speakers (Razer Surround Audio Controller)
+0702 - Default Sound Playback : False
+0703 - Default Voice Playback : False
+0704 - Hardware ID : *RZSURROUNDVAD
+0705 - Manufacturer ID : 1
+0706 - Product ID : 100
+0707 - Type : WDM
+0708 - Driver Name : RzSurroundVAD.sys
+0709 - Driver Version : 6.01.7600.16385
+0710 - Driver attributes : Final Retail
+0711 - Date and Size : 10/13/2016 12:00:00 AM
+0713 - Driver Provider : Razer
+0714 - Min/Max Sample Rate : N/A, N/A
+0715 - Static/Strm HW Mix Bufs : N/A, N/A
+0716 - Static/Strm HW 3D Bufs : N/A, N/A
+0717 - HW Memory : N/A
+0718 - Voice Management : False
+0719 - EAX(tm) 2.0 Listen/Src : False, False
+0720 - I3DL2(tm) Listen/Src : False, False
+0721 - Notes : No problems found.
+
+
+----------------------------------
+08 - Harddisk
+----------------------------------
+
+0801 - Model : CORSAIR FORCE LX SSD
+0802 - Media Type : Fixed hard disk media
+0803 - Size : 119.247 GB
+0804 - Interface Type : Serial ATA
+
+0801 - Model : WDC WD10EZRX-00L4HB0(Western Digital)
+0802 - Media Type : Fixed hard disk media
+0803 - Size : 931.523 GB
+0804 - Interface Type : Serial ATA
+
+0807 - Caption : C:\
+0808 - Capacity : 117.890 GB
+0809 - Free Space : 76.698 GB
+0810 - Drive Type : 3-Fixed
+0811 - File System : NTFS
+
+0807 - Caption : D:\
+0808 - Capacity : 931.522 GB
+0809 - Free Space : 118.451 GB
+0810 - Drive Type : 3-Fixed
+0811 - File System : NTFS
+
+----------------------------------
+09 - Process
+----------------------------------
+
+0901 - 0000 [System Process]                                                                              
+0901 - 0004 System                                                                                        
+0901 - 0078 Registry                                                                                      
+0901 - 0174 smss.exe                                                                                      
+0901 - 0200 csrss.exe                                                                                     
+0901 - 0264 wininit.exe                                                                                   
+0901 - 026c csrss.exe                                                                                     
+0901 - 02ac services.exe                                                                                  
+0901 - 02c0 lsass.exe                                                                        normal       C:\Windows\System32\lsass.exe
+0901 - 030c winlogon.exe                                                                     high         C:\Windows\System32\winlogon.exe
+0901 - 037c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 039c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 03b0 fontdrvhost.exe                                                                  normal       C:\Windows\System32\fontdrvhost.exe
+0901 - 03b8 fontdrvhost.exe                                                                  normal       C:\Windows\System32\fontdrvhost.exe
+0901 - 03d0 WUDFHost.exe                                                                     normal       C:\Windows\System32\WUDFHost.exe
+0901 - 01d8 WUDFHost.exe                                                                     normal       C:\Windows\System32\WUDFHost.exe
+0901 - 033c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0404 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0474 dwm.exe                                                                          high         C:\Windows\System32\dwm.exe
+0901 - 04cc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0524 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0554 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0574 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 05b4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 05c8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0650 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 065c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 067c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0684 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 06e0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0738 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 078c NVDisplay.Container.exe                                                          normal       C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe
+0901 - 079c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 07a4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0454 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 084c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0870 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0878 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0888 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0900 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0914 Memory Compression                                                                            
+0901 - 0968 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0970 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 099c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 09a4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0a10 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0a40 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0a68 NVDisplay.Container.exe                                                          normal       C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe
+0901 - 0b64 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0b78 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 06dc svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0c24 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0c78 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0c80 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0cb4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0d38 spoolsv.exe                                                                      normal       C:\Windows\System32\spoolsv.exe
+0901 - 0d7c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e3c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e44 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e4c atkexComSvc.exe                                                                  normal       C:\Program Files (x86)\ASUS\AXSP\1.01.02\atkexComSvc.exe
+0901 - 0e54 nvcontainer.exe                                                                  normal       C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+0901 - 0e5c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e64 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e6c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e88 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0e90 NvTelemetryContainer.exe                                                         normal       C:\Program Files (x86)\NVIDIA Corporation\NvTelemetry\NvTelemetryContainer.exe
+0901 - 0ea8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0eb0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0eb8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0ed8 MsMpEng.exe                                                                                   
+0901 - 0f84 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0fa0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0fe4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0d98 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 10a8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 10b4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 11bc audiodg.exe                                                                      normal       C:\Windows\System32\audiodg.exe
+0901 - 14c0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 16e4 NisSrv.exe                                                                                    
+0901 - 17d8 sihost.exe                                                                       normal       C:\Windows\System32\sihost.exe
+0901 - 17c4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0f94 nvcontainer.exe                                                                  normal       C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+0901 - 1380 nvcontainer.exe                                                                  normal       C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+0901 - 13e8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 03fc taskhostw.exe                                                                    normal       C:\Windows\System32\taskhostw.exe
+0901 - 07c8 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 08e4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0f70 ctfmon.exe                                                                       high         C:\Windows\System32\ctfmon.exe
+0901 - 1830 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1850 explorer.exe                                                                     normal       C:\Windows\explorer.exe
+0901 - 1990 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1a48 dllhost.exe                                                                      normal       C:\Windows\System32\dllhost.exe
+0901 - 1a9c ShellExperienceHost.exe                                                          normal       C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+0901 - 1b64 SearchUI.exe                                                                     normal       C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+0901 - 1bc4 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 0758 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 1868 SpeechRuntime.exe                                                                normal       C:\Windows\System32\Speech_OneCore\common\SpeechRuntime.exe
+0901 - 1c08 SearchIndexer.exe                                                                normal       C:\Windows\System32\SearchIndexer.exe
+0901 - 1c98 SkypeApp.exe                                                                     normal       C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.32.53.0_x64__kzf8qxf38zg5c\SkypeApp.exe
+0901 - 1cb0 SkypeBackgroundHost.exe                                                          normal       C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.32.53.0_x64__kzf8qxf38zg5c\SkypeBackgroundHost.exe
+0901 - 1d00 RemindersServer.exe                                                              normal       C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\RemindersServer.exe
+0901 - 1d08 SettingSyncHost.exe                                                              below normal C:\Windows\System32\SettingSyncHost.exe
+0901 - 1fbc NVIDIA Web Helper.exe                                                            below normal C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+0901 - 1fcc conhost.exe                                                                      below normal C:\Windows\System32\conhost.exe
+0901 - 1d10 GoogleCrashHandler.exe                                                           idle         C:\Program Files (x86)\Google\Update\1.3.33.17\GoogleCrashHandler.exe
+0901 - 1458 GoogleCrashHandler64.exe                                                         idle         C:\Program Files (x86)\Google\Update\1.3.33.17\GoogleCrashHandler64.exe
+0901 - 219c RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 23f0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2228 smartscreen.exe                                                                  normal       C:\Windows\System32\smartscreen.exe
+0901 - 224c chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 22f4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2300 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 2358 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 208c chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 2180 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 2344 RuntimeBroker.exe                                                                normal       C:\Windows\System32\RuntimeBroker.exe
+0901 - 27d0 nvsphelper64.exe                                                                 normal       C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+0901 - 27e4 NVIDIA Share.exe                                                                 normal       C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+0901 - 2464 NVIDIA Share.exe                                                                 normal       C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+0901 - 0b84 SecurityHealthSystray.exe                                                        normal       C:\Windows\System32\SecurityHealthSystray.exe
+0901 - 0d8c SecurityHealthService.exe                                                                     
+0901 - 2120 NVIDIA Share.exe                                                                 normal       C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+0901 - 0e38 TiltWheelMouse.exe                                                               normal       C:\Windows\System32\TiltWheelMouse.exe
+0901 - 0fd0 OneDrive.exe                                                                     normal       C:\Users\majed\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+0901 - 2868 RzSynapse.exe                                                                    normal       C:\Program Files (x86)\Razer\Synapse\RzSynapse.exe
+0901 - 28e8 Kraken0510Helper.exe                                                             normal       C:\Program Files (x86)\Razer\Razer_Kraken0510_Driver\Drivers\SysAudio\Kraken0510Helper.exe
+0901 - 0710 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 17b8 svchost.exe                                                                                   
+0901 - 1d70 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1a80 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2930 SgrmBroker.exe                                                                                
+0901 - 17d0 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 0634 svchost.exe                                                                                   
+0901 - 1c38 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2200 CompPkgSrv.exe                                                                   normal       C:\Windows\System32\CompPkgSrv.exe
+0901 - 23f8 WmiPrvSE.exe                                                                     normal       C:\Windows\System32\wbem\WmiPrvSE.exe
+0901 - 00d4 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 2944 RzAIOGenerator.exe                                                               normal       C:\Program Files (x86)\Razer\Synapse\RzAIOGenerator.exe
+0901 - 2a40 RzSDKServer.exe                                                                  normal       C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+0901 - 2190 RazerCentralService.exe                                                          normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe
+0901 - 24dc GameManagerService.exe                                                           normal       C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService.exe
+0901 - 2258 RzSDKService.exe                                                                 normal       C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe
+0901 - 1ba0 Razer Synapse Service.exe                                                        normal       C:\Program Files (x86)\Razer\Synapse3\Service\Razer Synapse Service.exe
+0901 - 0184 Razer Synapse Service Process.exe                                                normal       C:\Program Files (x86)\Razer\Synapse3\UserProcess\Razer Synapse Service Process.exe
+0901 - 296c RzKLService.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\RzKLService.exe
+0901 - 01a8 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 1e4c chrome.exe                                                                       idle         C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 214c chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 2850 svchost.exe                                                                                   
+0901 - 1938 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 0208 Razer Synapse 3.exe                                                              normal       C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+0901 - 1c74 Razer Central.exe                                                                normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+0901 - 1ac8 RazerCortex.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\RazerCortex.exe
+0901 - 2514 CefSharp.BrowserSubprocess.exe                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\Cef\CefSharp.BrowserSubprocess.exe
+0901 - 1194 CefSharp.BrowserSubprocess.exe                                                   normal       C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+0901 - 1cb8 PMRunner32.exe                                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\PMRunner32.exe
+0901 - 10a4 PMRunner64.exe                                                                   normal       C:\Program Files (x86)\Razer\Razer Cortex\x64\PMRunner64.exe
+0901 - 0958 svchost.exe                                                                                   
+0901 - 1b3c svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1170 svchost.exe                                                                      normal       C:\Windows\System32\svchost.exe
+0901 - 1330 SystemSettingsBroker.exe                                                         normal       C:\Windows\System32\SystemSettingsBroker.exe
+0901 - 1074 chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 1b4c chrome.exe                                                                       normal       C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 1b2c chrome.exe                                                                       idle         C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0901 - 066c FPSRunner32.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\FPSRunner32.exe
+0901 - 1eb0 FPSRunner64.exe                                                                  normal       C:\Program Files (x86)\Razer\Razer Cortex\x64\FPSRunner64.exe
+
+----------------------------------
+10 - Service
+----------------------------------
+
+1001 - Application Information - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - AppX Deployment Service (AppXSVC) - [C:\WINDOWS\system32\svchost.exe -k wsappx -p]
+1001 - ASUS Com Service - [C:\Program Files (x86)\ASUS\AXSP\1.01.02\atkexComSvc.exe]
+1001 - Windows Audio Endpoint Builder - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Windows Audio - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Base Filtering Engine - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p]
+1001 - Background Tasks Infrastructure Service - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Capability Access Manager Service - [C:\WINDOWS\system32\svchost.exe -k appmodel -p]
+1001 - Connected Devices Platform Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Certificate Propagation - [C:\WINDOWS\system32\svchost.exe -k netsvcs]
+1001 - Client License Service (ClipSVC) - [C:\WINDOWS\System32\svchost.exe -k wsappx -p]
+1001 - CoreMessaging - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetwork -p]
+1001 - Cryptographic Services - [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+1001 - DCOM Server Process Launcher - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Device Association Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - DHCP Client - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Connected User Experiences and Telemetry - [C:\WINDOWS\System32\svchost.exe -k utcsvc -p]
+1001 - DNS Client - [C:\WINDOWS\system32\svchost.exe -k NetworkService -p]
+1001 - Delivery Optimization - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Diagnostic Policy Service - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNoNetwork -p]
+1001 - Data Usage - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Windows Event Log - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - COM+ Event System - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - File History Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Windows Font Cache Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Human Interface Device Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - IKE and AuthIP IPsec Keying Modules - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - IP Helper - [C:\WINDOWS\System32\svchost.exe -k NetSvcs -p]
+1001 - CNG Key Isolation - [C:\WINDOWS\system32\lsass.exe]
+1001 - Server - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Workstation - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Geolocation Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Windows License Manager Service - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - TCP/IP NetBIOS Helper - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Local Session Manager - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Windows Defender Firewall - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p]
+1001 - Network Connection Broker - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Network List Service - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - Network Location Awareness - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Network Store Interface Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - NVIDIA LocalSystem Container - ["C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -s NvContainerLocalSystem -a -f "C:\ProgramData\NVIDIA\NvContainerLocalSystem.log" -l 3 -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\LocalSystem" -r -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll"]
+1001 - NVIDIA Display Container LS - ["C:\Program Files\NVIDIA Corporation\Display.NvContainer\NVDisplay.Container.exe" -s NVDisplay.ContainerLocalSystem -f "C:\ProgramData\NVIDIA\NVDisplay.ContainerLocalSystem.log" -l 3 -d "C:\Program Files\NVIDIA Corporation\Display.NvContainer\plugins\LocalSystem" -r -p 30000 ]
+1001 - NVIDIA Telemetry Container - ["C:\Program Files (x86)\NVIDIA Corporation\NvTelemetry\NvTelemetryContainer.exe" -s NvTelemetryContainer -f "C:\ProgramData\NVIDIA\NvTelemetryContainer.log" -l 3 -d "C:\Program Files (x86)\NVIDIA Corporation\NvTelemetry\plugins" -r]
+1001 - Program Compatibility Assistant Service - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Phone Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - Plug and Play - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Power - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - User Profile Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Remote Access Connection Manager - [C:\WINDOWS\System32\svchost.exe -k netsvcs]
+1001 - Razer Chroma SDK Server - ["C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe"]
+1001 - Razer Chroma SDK Service - ["C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe"]
+1001 - RPC Endpoint Mapper - [C:\WINDOWS\system32\svchost.exe -k RPCSS -p]
+1001 - Remote Procedure Call (RPC) - [C:\WINDOWS\system32\svchost.exe -k rpcss -p]
+1001 - Security Accounts Manager - [C:\WINDOWS\system32\lsass.exe]
+1001 - Task Scheduler - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Windows Security Service - [C:\WINDOWS\system32\SecurityHealthService.exe]
+1001 - Payments and NFC/SE Manager - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - System Event Notification Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Remote Desktop Configuration - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - System Guard Runtime Monitor Broker - [C:\WINDOWS\system32\SgrmBroker.exe]
+1001 - Shell Hardware Detection - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - Print Spooler - [C:\WINDOWS\System32\spoolsv.exe]
+1001 - Secure Socket Tunneling Protocol Service - [C:\WINDOWS\system32\svchost.exe -k LocalService -p]
+1001 - State Repository Service - [C:\WINDOWS\system32\svchost.exe -k appmodel -p]
+1001 - Windows Image Acquisition (WIA) - [C:\WINDOWS\system32\svchost.exe -k imgsvc]
+1001 - Storage Service - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - SysMain - [C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - System Events Broker - [C:\WINDOWS\system32\svchost.exe -k DcomLaunch -p]
+1001 - Touch Keyboard and Handwriting Panel Service - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Telephony - [C:\WINDOWS\System32\svchost.exe -k NetworkService -p]
+1001 - Remote Desktop Services - [C:\WINDOWS\System32\svchost.exe -k NetworkService]
+1001 - Themes - [C:\WINDOWS\System32\svchost.exe -k netsvcs -p]
+1001 - Time Broker - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Web Account Manager - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Distributed Link Tracking Client - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Remote Desktop Services UserMode Port Redirector - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - User Manager - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Update Orchestrator Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Credential Manager - [C:\WINDOWS\system32\lsass.exe]
+1001 - Windows Connection Manager - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Diagnostic Service Host - [C:\WINDOWS\System32\svchost.exe -k LocalService -p]
+1001 - Diagnostic System Host - [C:\WINDOWS\System32\svchost.exe -k LocalSystemNetworkRestricted -p]
+1001 - Windows Defender Antivirus Network Inspection Service - ["C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1809.2-0\NisSrv.exe"]
+1001 - Windows Defender Antivirus Service - ["C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1809.2-0\MsMpEng.exe"]
+1001 - WinHTTP Web Proxy Auto-Discovery Service - [C:\WINDOWS\system32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Windows Management Instrumentation - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Microsoft Account Sign-in Assistant - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Windows Push Notifications System Service - [C:\WINDOWS\system32\svchost.exe -k netsvcs -p]
+1001 - Security Center - [C:\WINDOWS\System32\svchost.exe -k LocalServiceNetworkRestricted -p]
+1001 - Windows Search - [C:\WINDOWS\system32\SearchIndexer.exe /Embedding]
+1001 - Clipboard User Service_59e50 - [C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p]
+1001 - Connected Devices Platform User Service_59e50 - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Sync Host_59e50 - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Windows Push Notifications User Service_59e50 - [C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup]
+1001 - Razer Central Service - ["C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService.exe"]
+1001 - Razer Game Manager - ["C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService.exe"]
+1001 - Razer Synapse Service - ["C:\Program Files (x86)\Razer\Synapse3\Service\Razer Synapse Service.exe"]
+1001 - RzKLService - ["C:\Program Files (x86)\Razer\Razer Cortex\RzKLService.exe"]
+
+----------------------------------
+12 - Event Log
+----------------------------------
+
+1201 - Time : 10/11/2018 10:07:38
+1202 - Source : Microsoft-Windows-RestartManager
+1203 - Description : Application or service 'PerfWatson2.exe' could not be shut down.
+
+1201 - Time : 10/11/2018 10:07:08
+1202 - Source : Microsoft-Windows-RestartManager
+1203 - Description : Application or service 'Node.js: Server-side JavaScript' could not be shut down.
+
+1201 - Time : 10/11/2018 09:58:24
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:55:16
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:55:16
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:55:16
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:54:22
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:54:13
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:53:14
+1202 - Source : Service Control Manager
+
+1201 - Time : 10/11/2018 09:53:14
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:53:14
+1202 - Source : DCOM
+
+1201 - Time : 10/11/2018 09:44:36
+1202 - Source : DCOM
+
+----------------------------------
+
+End of file - 47079 Bytes.
